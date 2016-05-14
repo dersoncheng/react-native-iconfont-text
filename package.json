@@ -1,0 +1,31 @@
+{
+  "name": "react-native-iconfont-text",
+  "repository": {
+  "type": "git",
+  "url": "git+ssh://git@github.com:dersoncheng/react_native_actionbar.git"
+  },
+  "keywords": [
+  "react-component",
+  "react-native",
+  "javascript",
+  "android"
+  ],
+  "main": "libs/index.js",
+  "author": {
+  "name": "dersoncheng"
+  },
+  "version": "0.0.1",
+  "description": "ActionBar component for React Native.",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "bugs": {
+  "url": "https://github.com/dersoncheng/react_native_actionbar/issues"
+  },
+  "dependencies": {
+    "react": "^0.14.8",
+    "react-native": "^0.25.1"
+  }
+}
