@@ -10,8 +10,7 @@ import {
   Text,
   View
 } from 'react-native';
-import IconfontText from './iconfonttv';
-import {glypyMapMaker} from './util';
+import IconfontText,{glypyMapMaker} from 'react-native-iconfont-text';
 
 var glypy = glypyMapMaker({
   Youle: 'e6f6',
