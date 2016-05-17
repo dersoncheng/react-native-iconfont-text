@@ -2,7 +2,7 @@
   "name": "react-native-iconfont-text",
   "repository": {
   "type": "git",
-  "url": "git+ssh://git@github.com:dersoncheng/react_native_actionbar.git"
+  "url": "git+ssh://git@github.com:dersoncheng/react-native-iconfont-text.git"
   },
   "keywords": [
   "react-component",
@@ -14,7 +14,7 @@
   "author": {
   "name": "dersoncheng"
   },
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "ActionBar component for React Native.",
   "license": "MIT",
   "private": true,
